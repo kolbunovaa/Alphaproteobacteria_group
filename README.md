@@ -2,7 +2,7 @@
 
 Ссылка на колаб:
 
-|Студент|Анализируемый геном|Ссылка на индивидумальную часть|
+|Студент|Анализируемый геном|Ссылка на индивидуальную часть|
 |---|---|---|
 |Абдюшева Яна|Bartonella|https://github.com/YanaAbdusheva/hse22_project|
 |Аракелов Сергей|Paracoccus|https://github.com/Sergey-Arakelov/hse22_project_Paracoccus-|
