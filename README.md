@@ -59,11 +59,11 @@ Alphaproteobacteria — таксономический класс бактери
 |23|Sphingomonas lutea|2417654|65,3|87.33|50903|
 |24|Sphingomonas panacisoli|3403025|65,1|88.95|68773|
 |25|Sphingomonas rhizophila|2557483|65,2|80.62|31319|
-|26|Candidatus Viadribacter manganicus|3732719|61,5||94607|
-|27|Candidatus Puniceispirillum marinum IMCC1322|2753527|48,9||14488|
-|28|Candidatus Phycorickettsia trachydisci|1472411|34,1||560|
-|29|Candidatus Pelagibacter ubique HTCC1062|1308759|29,7||119|
-|30|Candidatus Nucleicultrix amoebiphila FS5|1838212|39,7||3073|
+|26|Candidatus Viadribacter manganicus|3732719|61,5|90.73|94607|
+|27|Candidatus Puniceispirillum marinum IMCC1322|2753527|48,9|90.87|14488|
+|28|Candidatus Phycorickettsia trachydisci|1472411|34,1|90.55|560|
+|29|Candidatus Pelagibacter ubique HTCC1062|1308759|29,7|96.57|119|
+|30|Candidatus Nucleicultrix amoebiphila FS5|1838212|39,7|90.80|3073|
 |31|Mesorhizobium australicum WSM2073|6200534|62,8|86.27|68714|
 |32|Mesorhizobium opportunistum WSM2075|6884444|62,9|86.12|76000|
 |33|Mesorhizobium erdmanii|6602217|62,9|86.84|73578|
