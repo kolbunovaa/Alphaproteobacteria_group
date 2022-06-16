@@ -66,7 +66,7 @@ Alphaproteobacteria — таксономический класс бактери
 |30|Candidatus Nucleicultrix amoebiphila FS5|1838212|||3073|
 |31|Mesorhizobium australicum WSM2073|6200534||86.27|68714|
 |32|Mesorhizobium opportunistum WSM2075|6884444||86.12|76000|
-|33|Mesorhizobium erdmanii|6602217|6602217||86.84|73578|
+|33|Mesorhizobium erdmanii|6602217||86.84|73578|
 |34|Mesorhizobium japonicum R7A|6530403||87.11|74804|
 |35|Mesorhizobium terrae|5731152||87.78|74350|
 |36||||||
