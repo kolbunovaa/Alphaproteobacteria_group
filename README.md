@@ -34,41 +34,41 @@ Alphaproteobacteria — таксономический класс бактери
 #### 2.1 Общая информация о геномах
 |№|Геном|Длина|GC%|Кол-во аннотированных генов, %|Кол-во Z-ДНК (со score > 500)|
 |---|---|---|---|---|---|
-|1|Bartonella ancashensis|1467695| |1467695|78.80|2481|
-|2|Bartonella australis AustNH1|1596490| |79.64|5823|
-|3|Bartonella clarridgeiae 73|1522743| |79.72|1832|
-|4|Bartonella henselae|1905383| |72.89|3403|
-|5|Bartonella tribocorum CIP 105476|2619061 (хромосома), 23343 (плазмида)| |73.16|5598|
-|6|Paracoccus mutanolyticus|3592357||55.78|60421|
-|7|Paracoccus pantotrophus	2|3774098 (2248278(хр.1) + 1525820(хр.2) + 99949(пл.1) + 535332(пл.2))||88.12|57049|
-|8|Paracoccus liaowanqingii	1|3271357 + 310431(пл.1) + 244326(пл.2) + 255051(пл.3) + 260425(пл.4) + 216963(пл.5) + 170285(пл.6) + 82441(пл.7) + 83454(пл.8) + 13537(пл.9) + 16958(пл.10)||84.91|59765|
-|9|Paracoccus suum	1|3250998||90.02|57259|
-|10|Paracoccus yeei	1|3588087 (хромосома) + 327671(пл.1) + 225271(пл.2) + 167927(пл.3) + 172023(пл.4) + 114679(пл.5) + 24567(пл.6)||88.97|65631|
-|11|Bradyrhizobium cosmicum	|7231841||87,99|118178|
-|12|Bradyrhizobium oligotrophicum S58|8264165||85,55|133452|
-|13|Bradyrhizobium amphicarpaeae|7044517||87,78|114802|
-|14|Bradyrhizobium betae|7150095(хромосома), 269307(плазмида)||85,41|121096|
-|15|Bradyrhizobium elkanii USDA 61|9548186 (хромосома), 101809 (плазмида)||81,75|144519|
-|16|Brevundimonas subvibrioides ATCC 15264|3445263||91.27|44826|
-|17|Brevundimonas vesicularis|3345527||91.23|48098|
-|18|Brevundimonas pondensis|3550773||91.03|47333|
-|19|Brevundimonas goettingensis|3984955||90.39|43254|
-|20|Brevundimonas nasdae|3747438 (хромосома), 76784 (плазмида)||88.91|52189|
-|21|Sphingomonas alpina|5197460||87.53|87272|
-|22|Sphingomonas ginsengisoli|3037290||91.12|47997|
-|23|Sphingomonas lutea|2417654||87.33|50903|
-|24|Sphingomonas panacisoli|3403025||88.95|68773|
-|25|Sphingomonas rhizophila|2557483	||80.62|31319|
-|26|Candidatus Viadribacter manganicus|3732719|||94607|
-|27|Candidatus Puniceispirillum marinum IMCC1322|2753527|||14488|
-|28|Candidatus Phycorickettsia trachydisci|1472411|||560|
-|29|Candidatus Pelagibacter ubique HTCC1062|1308759|||119|
-|30|Candidatus Nucleicultrix amoebiphila FS5|1838212|||3073|
-|31|Mesorhizobium australicum WSM2073|6200534||86.27|68714|
-|32|Mesorhizobium opportunistum WSM2075|6884444||86.12|76000|
-|33|Mesorhizobium erdmanii|6602217||86.84|73578|
-|34|Mesorhizobium japonicum R7A|6530403||87.11|74804|
-|35|Mesorhizobium terrae|5731152||87.78|74350|
+|1|Bartonella ancashensis|1467695|38,4|1467695|78.80|2481|
+|2|Bartonella australis AustNH1|1596490|41,8|79.64|5823|
+|3|Bartonella clarridgeiae 73|1522743|35,7|79.72|1832|
+|4|Bartonella henselae|1905383|38,2|72.89|3403|
+|5|Bartonella tribocorum CIP 105476|2619061 (хромосома), 23343 (плазмида)|38,8655|73.16|5598|
+|6|Paracoccus mutanolyticus|3592357|67,3|55.78|60421|
+|7|Paracoccus pantotrophus	2|3774098 (2248278(хр.1) + 1525820(хр.2) + 99949(пл.1) + 535332(пл.2))|67,5727|88.12|57049|
+|8|Paracoccus liaowanqingii	1|3271357 + 310431(пл.1) + 244326(пл.2) + 255051(пл.3) + 260425(пл.4) + 216963(пл.5) + 170285(пл.6) + 82441(пл.7) + 83454(пл.8) + 13537(пл.9) + 16958(пл.10)|66,508|84.91|59765|
+|9|Paracoccus suum	1|3250998|66,9|90.02|57259|
+|10|Paracoccus yeei	1|3588087 (хромосома) + 327671(пл.1) + 225271(пл.2) + 167927(пл.3) + 172023(пл.4) + 114679(пл.5) + 24567(пл.6)|67,3658|88.97|65631|
+|11|Bradyrhizobium cosmicum	|7231841|64,3|87,99|118178|
+|12|Bradyrhizobium oligotrophicum S58|8264165|65,1|85,55|133452|
+|13|Bradyrhizobium amphicarpaeae|7044517|64,7|87,78|114802|
+|14|Bradyrhizobium betae|7150095(хромосома), 269307(плазмида)|64,3584|85,41|121096|
+|15|Bradyrhizobium elkanii USDA 61|9548186 (хромосома), 101809 (плазмида)|63,6726|81,75|144519|
+|16|Brevundimonas subvibrioides ATCC 15264|3445263|68,4|91.27|44826|
+|17|Brevundimonas vesicularis|3345527|66,1|91.23|48098|
+|18|Brevundimonas pondensis|3550773|67|91.03|47333|
+|19|Brevundimonas goettingensis|3984955|67,8|90.39|43254|
+|20|Brevundimonas nasdae|3747438 (хромосома), 76784 (плазмида)|65,6876|88.91|52189|
+|21|Sphingomonas alpina|5197460|64|87.53|87272|
+|22|Sphingomonas ginsengisoli|3037290|67,2|91.12|47997|
+|23|Sphingomonas lutea|2417654|65,3|87.33|50903|
+|24|Sphingomonas panacisoli|3403025|65,1|88.95|68773|
+|25|Sphingomonas rhizophila|2557483|65,2|80.62|31319|
+|26|Candidatus Viadribacter manganicus|3732719|61,5||94607|
+|27|Candidatus Puniceispirillum marinum IMCC1322|2753527|48,9||14488|
+|28|Candidatus Phycorickettsia trachydisci|1472411|34,1||560|
+|29|Candidatus Pelagibacter ubique HTCC1062|1308759|29,7||119|
+|30|Candidatus Nucleicultrix amoebiphila FS5|1838212|39,7||3073|
+|31|Mesorhizobium australicum WSM2073|6200534|62,8|86.27|68714|
+|32|Mesorhizobium opportunistum WSM2075|6884444|62,9|86.12|76000|
+|33|Mesorhizobium erdmanii|6602217|62,9|86.84|73578|
+|34|Mesorhizobium japonicum R7A|6530403|62,9|87.11|74804|
+|35|Mesorhizobium terrae|5731152|71,6|87.78|74350|
 |36||||||
 |37||||||
 |38||||||
