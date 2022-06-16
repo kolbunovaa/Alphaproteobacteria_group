@@ -54,11 +54,26 @@ Alphaproteobacteria — таксономический класс бактери
 |18|Brevundimonas pondensis|3550773||91.03|47333|
 |19|Brevundimonas goettingensis|3984955||90.39|43254|
 |20|Brevundimonas nasdae|3747438 (хромосома), 76784 (плазмида)||88.91|52189|
-|21||||
-|22||||
-|23||||
-|23||||
-
+|21|Sphingomonas alpina|5197460||87.53|87272|
+|22|Sphingomonas ginsengisoli|3037290||91.12|47997|
+|23|Sphingomonas lutea|2417654||87.33|50903|
+|24|Sphingomonas panacisoli|3403025||88.95|68773|
+|25|Sphingomonas rhizophila|2557483	||80.62|31319|
+|26|Candidatus Viadribacter manganicus|3732719|||94607|
+|27|Candidatus Puniceispirillum marinum IMCC1322|2753527|||14488|
+|28|Candidatus Phycorickettsia trachydisci|1472411|||560|
+|29|Candidatus Pelagibacter ubique HTCC1062|1308759|||119|
+|30|Candidatus Nucleicultrix amoebiphila FS5|1838212|||3073|
+|31|Mesorhizobium australicum WSM2073|6200534||86.27|68714|
+|32|Mesorhizobium opportunistum WSM2075|6884444||86.12|76000|
+|33|Mesorhizobium erdmanii|6602217|6602217||86.84|73578|
+|34|Mesorhizobium japonicum R7A|6530403||87.11|74804|
+|35|Mesorhizobium terrae|5731152||87.78|74350|
+|36||||||
+|37||||||
+|38||||||
+|39||||||
+|40||||||
 
 
 
