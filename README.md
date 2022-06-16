@@ -7,7 +7,7 @@
 |Абдюшева Яна|Bartonella|https://github.com/YanaAbdusheva/hse22_project|
 |Аракелов Сергей|Paracoccus|https://github.com/Sergey-Arakelov/hse22_project_Paracoccus-|
 |Бурденкова Александра|Bradyrhizobium|https://github.com/alexburde/hse22_project|
-|Добровольская Дарья|Azospirillum||
+|Добровольская Дарья|Caulobacter|https://github.com/dariadobrovolskaya/group-project|
 |Анастасия Колбунова|Brevundimonas|https://github.com/kolbunovaa/hse22_project|
 |Петрачков Денис|Sphingomonas|https://github.com/celldominator/hse22_project|
 |Екатерина Шейченко|Candidatus|https://github.com/edsheychenko/hse22_project|
@@ -69,11 +69,11 @@ Alphaproteobacteria — таксономический класс бактери
 |33|Mesorhizobium erdmanii|6602217|62,9|86.84|73578|
 |34|Mesorhizobium japonicum R7A|6530403|62,9|87.11|74804|
 |35|Mesorhizobium terrae|5731152|71,6|87.78|74350|
-|36||||||
-|37||||||
-|38||||||
-|39||||||
-|40||||||
+|36|Caulobacter flavus|5659202|69,3|81.38|60421|
+|37|Caulobacter henricii|3864204|65,7906|77.08|81688|
+|38|Caulobacter mirabilis|4577265|69,3|79.93|32369|
+|39|Caulobacter rhizosphaera|5732418|68,6457|80.41|53558|
+|40|Caulobacter segnis|4655467|67,7|81.43|70595|
 
 #### 2.2 Белковые кластеры
 Сами кластеры и входящие в них белки представлены в [файле]
