@@ -113,6 +113,7 @@ Alphaproteobacteria — таксономический класс бактери
 
 ### 6. Визуализация расположения участков Z-ДНК, белковые и нуклеотидные выравнивания
 
+![image](https://user-images.githubusercontent.com/93188451/174401131-613e7b9d-729e-4ce2-95b6-eb5e8b143ae9.png)
 
 
 
