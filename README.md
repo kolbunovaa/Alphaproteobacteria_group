@@ -117,6 +117,10 @@ Alphaproteobacteria — таксономический класс бактери
 
 ![image](https://user-images.githubusercontent.com/93188451/174402268-6948e438-c3f7-4785-9223-1025ca33e37c.png)
 
+#### 6. Нуклеотидные выравнивания
+
+https://colab.research.google.com/drive/13vflvlQedgZFh2r4Ph_eTJdnLtCO6d4q?usp=sharing
+
 
 
 
